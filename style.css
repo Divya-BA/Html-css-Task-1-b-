@@ -1,0 +1,22 @@
+.row{
+    padding: 10px 5px;
+    
+}
+.col-lg-6{
+    text-align: center;
+    border-style: groove;
+
+}
+.container{
+    border-style: groove;
+    background-color: bisque;
+   
+
+}
+.col-lg-3{
+    border: 3px groove black;
+    border:30px 10px;
+   
+    
+   
+}
